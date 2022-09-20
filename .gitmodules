@@ -1,0 +1,3 @@
+[submodule "gocomm"]
+	path = gocomm
+	url = https://github.com/kingdomReward
